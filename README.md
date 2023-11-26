@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning coding (pyhton)
 - 💞️ I’m looking to collaborate with coding community
-- 📫 How to reach me by email 'mohammadrumman15@gmial.com' or you can use discord 'hummus#9317'
+- 📫 How to reach me by email 'mohammadrumman15@gmail.com' or you can use discord 'hummus#9317'
 
 Let's the journey begin :) 
 
