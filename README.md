@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahmadru
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning coding (pyhton)
+- 🌱 I’m currently learning github, docker , linux and kubernetes
 - 💞️ I’m looking to collaborate with coding community
 - 📫 How to reach me by email 'mohammadrumman15@gmail.com' or you can use discord 'hummus#9317'
 
